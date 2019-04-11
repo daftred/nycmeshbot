@@ -30,3 +30,5 @@ build
 .env
 oldapp
 app/logs/nycmeshbot.log
+*.sqlite3
+nycmeshbot/settings.py
